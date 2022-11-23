@@ -1,0 +1,309 @@
+.log{
+    font-family: 'Italic', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #fff;
+    font-style: italic; 
+}
+.logo1{
+  color: white;
+
+}
+.list{
+    display: none;
+    width: 100%;
+    background-color: white;
+    height: 500px;
+}
+.menu1 .menu-head .menu-body:hover  .list{
+      display: block;
+      position: absolute;
+      left: 0;
+      background-color: white;   
+}
+.header{
+  margin-bottom: 0;
+}
+.list1{
+    border: hidden;
+    color: #aaa;
+    padding: 0;
+    margin:0;
+    left: 100px;
+}
+.list3{
+  border: hidden;
+    color: black;
+    padding: 0;
+    margin:0;
+    left: 100px;
+   
+    
+}
+.list2{
+    border: hidden;
+    font-weight: bold;
+    padding: 0;
+    margin:0;
+    left: 100px;
+}
+.ml1{
+
+margin-left: 200px;
+}
+.text-color{
+color: black;
+list-style: none;
+
+}
+.banner-head{
+justify-content: center;
+text-align: center;
+}
+.text-b{
+font-size: 50px;
+color: white;
+}
+.text-b1{
+font-size: 20px;
+color: white;
+}
+.bg-color{
+background-image: url(https://d2poqm5pskresc.cloudfront.net/wp-content/uploads/2019/11/Process-Automation.jpg),url(https://hexaware.com/place-holder.jpg);
+background-size: cover;
+background-position: center;
+
+}
+.bg-color{
+border-radius: 0 0 100px 100px;
+overflow: hidden;
+max-height: 500px;
+height: 500px;
+position: relative;
+margin: 0;
+}
+.headd{
+font-size: 30px;
+font-weight: bold;
+}
+.texx{
+font-size: 20px;
+font-weight: bold;
+}
+.card1{
+text-align: center;
+
+}
+.img{
+background-image: url(https://hexaware.com/place-holder.jpg);
+height: 600px;
+width: 100%;
+}
+.tex2{
+color: #fff;
+
+}
+
+.article:hover .hhh{
+opacity: .6;
+}
+.text-head{
+
+color: white;
+margin-left: auto;
+
+}
+.main-img{
+margin: 3%;
+position: relative;
+
+}
+.first-txt {
+    
+    
+}
+
+.img-h{
+position: absolute;
+    bottom: 17px;
+   right: 20px;
+  background-color: black;
+  width: 400px;
+  height: 200px;
+  margin-left: auto;
+  align-items: center;
+}
+.img-h1{
+position: absolute;
+   top: 150px;
+   right: 20px;
+  background-color: black;
+  width: 250px;
+  height: 50px;
+  margin: auto;
+  text-align: center;
+}
+.img-head:hover{
+   background-color: blue;
+   color: white;
+}
+.card1{
+border: hidden;
+border-radius: 30px;
+}
+.card2{
+border: hidden;
+border-radius: 30px;
+}
+.card-b{
+  text-align: left;
+  font-size: 30px;
+  padding: 0;
+}
+.card-a{
+  text-align: left;
+  font-size: 15px;
+  color: #aaa;
+}
+.card-c{
+text-align: left;
+font-weight: bold;
+}
+.hhh{
+justify-content: center;
+align-items: center;
+}
+.hhh1{
+justify-content: center;
+align-items: center;
+
+}
+.card-{
+
+
+overflow: hidden;
+margin: 0 auto;
+border-radius: 30px 30px 30px 30px;
+
+}
+.card- img{
+width: 100%;
+transition: 0.5s all ease-in-out;
+}
+.card-:hover img{
+transform: scale(1.5);
+}
+.card{
+
+
+overflow: hidden;
+margin: 0 auto;
+
+}
+.card img{
+width: 100%;
+transition: 0.3s all ease-in-out;
+}
+.card:hover img{
+transform: scale(1.2);
+}
+.list-head{
+flex-direction: row;
+
+}
+.w1{
+height: 300px;
+width: 500px;
+
+}
+
+
+.cross1
+{
+margin: -270px -20px -10px -20px;
+float: right;
+background-color:white;
+color: white;
+width: 100%;
+padding: 0;
+
+}
+.cc{
+font-size: 12px;
+}
+.cross
+{
+margin: -200px -20px;
+float: right;
+background-color: blue;
+color: white;
+width: 100%;padding: 20px;
+}
+.sixe{
+font-size: 60px;
+}
+.foot-head{
+background-color: black;
+color: white;
+}
+.immg{
+height: 50px;
+width: 50px;
+}
+.roww{
+border-left: hidden;
+border-top: hidden;
+border-right: hidden;
+}
+.footer{
+background-color: black;
+color: white;
+border-top: 1px solid #aaa;
+}
+.foo{
+border-bottom: 2px solid #aaa;
+
+
+}
+.list-head{
+padding: 0;
+border: hidden;
+
+}
+.f-head{
+  height: 60px;
+  width: 130px;
+}
+    .hhhh{
+        background-color: black;
+    }
+    .i-head{
+      height: 400px;
+      width: 500px;
+    }
+    .i-head1{
+      height: 400px;
+      width: 500px;
+    }
+    .i-head11{
+      height: 400px;
+      width: 500px;
+    }
+    .i-head111{
+      height: 400px;
+      width: 500px;
+    }
+    .i-head1111{
+      height: 400px;
+      width: 500px;
+    }
+    .i-head11111{
+      height: 400px;
+      width: 500px;
+    }
+    .ii-head{
+
+    }
+    .image-head{
+      height: 400px;
+      width: 500px;
+    }
